@@ -1,0 +1,24 @@
+{
+  "name": "Full-Stack",
+  "version": "0.0.0",
+  "description": "full-stack =========",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evan-ward/Full-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evan-ward/Full-Stack/issues"
+  },
+  "homepage": "https://github.com/evan-ward/Full-Stack"
+}
